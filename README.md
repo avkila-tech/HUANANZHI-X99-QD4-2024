@@ -59,4 +59,4 @@
 * **Core:** 4.4GHz @ 1.42V
 * **Cache:** 3.4GHz @ 1.315V
 * **Power Limit:** 190W
-* **Current Limit:** 256A (`iccmax 2048/8`)# HUANANZHI-X99-QD4-2024
+* **Current Limit:** 256A (`iccmax 2048/8`)
